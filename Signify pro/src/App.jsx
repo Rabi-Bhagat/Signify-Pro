@@ -6,7 +6,7 @@ const BRUSH_STYLES = [
   { id: "solid", label: "Solid", icon: "⎯" },
   { id: "dashed", label: "Dashed", icon: "╌" },
   { id: "dotted", label: "Dotted", icon: "•" },
-  { id: "scatter", label: "Scatter", icon: "✨" },
+  { id: "scatter", label: "Scatter", icon: "`," },
 ];
 
 function App() {
